@@ -13,6 +13,10 @@
 - [DHT sensor library](https://www.arduino.cc/reference/en/libraries/dht-sensor-library/)
 - Library suite included with the installation of the board in the Arduino IDE environment (such as WiFi, HTTPSClient,WiFiClientSecure,...)
 
+## Data Pins
+- DHT 11 data pin: GpIO 27
+- Photoresistor pin: GpIO 26
+
 # Application Stack
 ## [Frontend](https://github.com/ThaTeo/scudo-reloaded-frontend)
 Hosted with Firebase Hosting
